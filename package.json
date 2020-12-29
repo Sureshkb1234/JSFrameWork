@@ -1,0 +1,13 @@
+{
+  "name": "SFSAutomation",
+  "version": "1.0.0",
+  "description": "Screen Automation for SFS",
+  "main": "index.js",
+  "repository": "https://github.com/srivenkat201/SFS",
+  "author": "Sri Venkatesh",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "codeceptjs": "^3.0.2"
+  }
+}
