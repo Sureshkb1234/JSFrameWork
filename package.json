@@ -4,10 +4,11 @@
   "description": "Screen Automation for SFS",
   "main": "index.js",
   "repository": "https://github.com/srivenkat201/SFS",
-  "author": "Sri Venkatesh",
+  "author": "Suresh Behara",
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "codeceptjs": "^3.0.2"
+    "codeceptjs": "^3.0.2",
+    "puppeteer": "^5.5.0"
   }
 }
